@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  height: 100%;
+  background: #222;
+  color: #fff;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main a {
+  color: #fff;
+}
+
+.main .content {
+  height: 100%;
+  padding-top: 60px;
+}
+
+.games-content {
+  margin-top: 30px;
+}
+
+.contact-content {
+  margin-top: 30px;
+}
